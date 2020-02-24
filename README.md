@@ -1,2 +1,2 @@
 # myfirst_testproject
-我的第一个测试项目
+我的第一个项目
